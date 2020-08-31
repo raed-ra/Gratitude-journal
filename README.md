@@ -73,9 +73,6 @@ The following GIF shows the application's functionality and how to use.
 - Quotes Free API - https://www.freecodecamp.org/forum/t/free-api-inspirational-quotes-json-with-code-examples/311373
 - Toastr - https://github.com/CodeSeven/toastr
 
-## Rough Breakdown of Tasks 
-- Front End (Vasavi, Caroline)
-- Backend (Nathan, Raed)
 
 ## Ideas for Future Development
 - Send a message to someone, to let them know you are thinking of them

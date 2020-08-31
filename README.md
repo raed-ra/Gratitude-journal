@@ -92,3 +92,4 @@ The following GIF shows the application's functionality and how to use.
 
 ## License
 ![License](https://img.shields.io/github/license/cazb67/gratitude-journal) 
+# Gratitude-journal
